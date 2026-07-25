@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 質問・議論 / Questions & discussions
+    url: https://github.com/Takenori-Kusaka/AIWebUITester/discussions
+    about: バグでも機能提案でもない話題はこちら
+  - name: 脆弱性報告 / Security vulnerability
+    url: https://github.com/Takenori-Kusaka/AIWebUITester/security/advisories/new
+    about: 脆弱性は公開 Issue ではなくこちらから(SECURITY.md 参照)
