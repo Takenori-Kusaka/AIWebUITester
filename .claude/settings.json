@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env*)",
+      "Write(./.env*)",
+      "Edit(./.env*)",
+      "Read(./node_modules/**)",
+      "Read(./dist/**)",
+      "Read(./src-tauri/target/**)",
+      "Edit(./docs/planning/**)",
+      "Write(./docs/planning/**)",
+      "Edit(./version.txt)",
+      "Edit(./.release-please-manifest.json)"
+    ],
+    "allow": [
+      "Bash(git status *)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git branch *)",
+      "Bash(gh pr view *)",
+      "Bash(gh pr list *)",
+      "Bash(gh pr checks *)",
+      "Bash(gh run view *)",
+      "Bash(gh run list *)",
+      "Bash(gh issue list *)",
+      "Bash(npm ci)",
+      "Bash(npm test *)",
+      "Bash(npm run test *)",
+      "Bash(npm run lint *)",
+      "Bash(npm run format *)",
+      "Bash(npm run build *)",
+      "Bash(npm run check *)"
+    ]
+  }
+}
