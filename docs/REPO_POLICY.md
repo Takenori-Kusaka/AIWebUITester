@@ -6,7 +6,7 @@
 
 | 項目 | 決定 |
 |---|---|
-| 公開範囲 | **public (OSS)** |
+| 公開範囲 | **private**(2026-07-25 オーナー決定で public から変更。Buzz #1on1 スレッド)。理由: 特許出願前の公知化回避。**特許出願完了までは public に戻さない**。public 化(=無料 GitHub Actions での CI 構築)の前提条件 = 特許出願完了 |
 | プロジェクト種別 | デスクトップアプリ(Tauri 2 + TypeScript)。AIペア型 Web UI/UX テストツール |
 | 目標 | コンセプトスケッチ([VER_1_0_0_CONCEPT_SKETCH.png](planning/VER_1_0_0_CONCEPT_SKETCH.png))の **ver1.0.0** |
 | チーム | オーナー1名 + AI エージェント(Claude Code) |
