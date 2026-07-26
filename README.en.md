@@ -27,4 +27,8 @@ See the [competitive analysis & product plan](docs/planning/PRODUCT_PLAN_COMPETI
 
 ## License
 
-[MIT](LICENSE)
+[AGPL-3.0-or-later](LICENSE)
+
+Copyright (c) 2026 Takenori Kusaka
+
+If you provide this software's functionality over a network, AGPL §13 also requires you to offer the corresponding source. Code contributions require [agreeing to the CLA](CONTRIBUTING.md#コントリビューターライセンス同意cla).
