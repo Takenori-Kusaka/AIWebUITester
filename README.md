@@ -31,4 +31,8 @@
 
 ## ライセンス
 
-[MIT](LICENSE)
+[AGPL-3.0-or-later](LICENSE)
+
+Copyright (c) 2026 Takenori Kusaka
+
+ネットワーク越しに本ソフトウェアの機能を提供する場合も、AGPL §13 によりソースコードの提供義務が生じます。コードを含むコントリビュートには [CLA への同意](CONTRIBUTING.md#コントリビューターライセンス同意cla)が必要です。
