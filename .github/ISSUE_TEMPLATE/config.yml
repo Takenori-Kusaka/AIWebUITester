@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 質問・議論 / Questions & discussions
-    url: https://github.com/Takenori-Kusaka/AIWebUITester/discussions
-    about: バグでも機能提案でもない話題はこちら
-  - name: 脆弱性報告 / Security vulnerability
-    url: https://github.com/Takenori-Kusaka/AIWebUITester/security/advisories/new
-    about: 脆弱性は公開 Issue ではなくこちらから(SECURITY.md 参照)
+  - name: ピットイン方式の標準本文
+    url: https://takenori-kusaka.github.io/process-compass/phase4-process-design/overview/
+    about: プロセスの規定そのものへの質問・提案は Process Compass へ
